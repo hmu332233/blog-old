@@ -11,7 +11,8 @@ body {
 }
 
 html {
-  font-family: $serif-primary;
+  // font-family: $serif-primary;
+  font-family: $noto-sans; // @minung.han add
   font-size: 14px;
 
   @media (min-width: 600px) {
