@@ -4,8 +4,8 @@ permalink:      /:year-:month-:day/:title
 # Setup
 title:          minung--dev-log
 paginate:       5
-baseurl:        "/blog"
-url:            "https://hmu332233.github.io"
+baseurl:        "/"
+url:            "https://blog.minung.dev"
 
 # Assets
 sass:
@@ -16,9 +16,9 @@ sass:
 markdown:       kramdown
 
 # Custom vars
-version:        3.4.1
+version:        1.0.0
 github:
-  repo:         https://github.com/chesterhow/tale
+  repo:         https://github.com/hmu332233/blog
 
 # Gems
 plugins:
